@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Ruhul",
+        "username": "ruhul",
+        "password": "1111",
+        "retypepassword": "1111",
+        "gender": "male",
+        "programmingskills": "java",
+        "contactno": "01755993777",
+        "email": "mail@gmail.com",
+        "college": "Dhaka College "
+    },
+    {
+        "name": "Fuhad",
+        "username": "fuhad",
+        "password": "1122",
+        "retypepassword": "1122",
+        "gender": "female",
+        "programmingskills": "java",
+        "contactno": "0155997888",
+        "email": "mail11@gmail.com",
+        "college": "Cambrian College"
+    }
+]
